@@ -1,6 +1,6 @@
 cascadetrainer
 ===============
-a few things to help with cascade training
+a few things to help with cascade training using opencv **requires opencv**
 
 generate_samples.js 
 --
