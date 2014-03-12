@@ -11,6 +11,9 @@ match.js
 --
 lets you test a new cascade. **untested** I have not made it this far in my testing.
 
+setup
+--
+
 setup your directory structure like this to make life easier
 
 	positives
@@ -35,7 +38,7 @@ setup your directory structure like this to make life easier
 		....
  
  usage
- ----
+--
 
 	cd cascadetrainer
 	./generate_samples.js 
