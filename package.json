@@ -1,0 +1,7 @@
+{
+    "name": "OpenCVTests",
+    "version": "0.0.1",
+    "dependencies": [
+       "prompt", "glob", "execSync", "image-size", "opencv", "optimist"
+    ]
+}
