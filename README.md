@@ -18,7 +18,9 @@ setup your directory structure like this
 		bar.png
 		...	
 	backgrounds
-		
+		foo.jpg
+		bar.png
+		...
 	cascadetrainer
 		generate_samplmes.js
 		....
@@ -29,4 +31,4 @@ setup your directory structure like this
 	cd cascadetrainer 
 	./generate_samples.js 
 	 
-The mergevec was compiled on my Macbook Pro with OS X (10.9.2) so no promises it works. =)
+The mergevec and convert_cascade were compiled on my Macbook Pro with OS X (10.9.2) so no promises they works. =)
